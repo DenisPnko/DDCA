@@ -1,0 +1,7 @@
+# DDCA
+Application of the Deterministic Dendritic Cell Algorithm for multiple Data Stream Analysis
+
+This is some of the practical part of my University Honours work. I have extended the Deterministic Dendritic Cell Algorithm (Created by Julie Greensmith on 27/03/2008 and modified by Feng Gu on 11/07/2008) to work with multiple data stream analysis and tested it in a couple of real-world domains. Here is an extract from the written part:
+
+"This research project aims to investigate how the Deterministic Dendritic Cell Algorithm (DDCA) could be applied for multiple data stream analysis in a real-world domain, namely detecting potentially dangerous processes from analysing streams of port scanning data. The Deterministic Dendritic Cell Algorithm, created by Greensmith and Aickelin, belongs to the field of Artificial Immune Systems. It uses a set of dendritic cells (prototypes) to classify normal and anomalous system inputs. The main goal of this project was to expand the existing algorithm that is currently capable of evaluating a single dataset to analysing several data streams and finding co-occurrences between the identified malicious processes. Finally, the effectiveness of the resulting approach was assessed through experimentation and different parameter settings.
+The report shows the background research, design, implementation, testing and experimentation with the expanded Deterministic Dendritic Cell Algorithm based on datasets from two different domains (Port Scanning data and SEPA River data)".
